@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am an Electronics Engineer transitioning into th
 
 Here are some highlights from my portfolio:
 
-1. **[Project Name 1]:** Brief description of the project, technologies used, and key outcomes.
+1. **[Bellabeat-Case-Study]:** Proyect using R and tableu for make visualitation.
 2. **[Project Name 2]:** Brief description of the project, technologies used, and key outcomes.
 3. **[Project Name 3]:** Brief description of the project, technologies used, and key outcomes.
 
@@ -32,7 +32,7 @@ I am passionate about leveraging my skills in data analysis and machine learning
 
 ## 📫 How to Reach Me
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [david.macias9510@gmail.com]
+- **LinkedIn:** [www.linkedin.com/in/david-macias-luevano95]
 
 Thank you for visiting my GitHub profile! I look forward to connecting and collaborating with you.
