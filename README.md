@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am an Electronics Engineer transitioning into th
 
 Here are some highlights from my portfolio:
 
-1. **[Bellabeat-Case-Study]:** Proyect using R and tableu for make visualitation.(https://github.com/david-macias-luevano95/Bellabeat-Case_Study)
+1. [**[Bellabeat-Case-Study]:** Proyect using R and tableu for make visualitation.](https://github.com/david-macias-luevano95/Bellabeat-Case_Study)
 2. **[Project Name 2]:** Brief description of the project, technologies used, and key outcomes.
 3. **[Project Name 3]:** Brief description of the project, technologies used, and key outcomes.
 
