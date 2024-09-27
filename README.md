@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am an Electronics Engineer transitioning into th
 
 ## 📚 Education and Certifications
 
-- **Electronics Engineering:** [Your University], [Year of Graduation]
+- **Electronics Engineering:** [Instituto Teconologico de Aguascalietnes]
 - **Python Training Program:** Kreatistorn
 - **Google Data Analytics Certificate**
 
@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I am an Electronics Engineer transitioning into th
 Here are some highlights from my portfolio:
 
 1. [**[Bellabeat-Case-Study]:** Proyect using R and tableu for make visualitation.](https://github.com/david-macias-luevano95/Bellabeat-Case_Study)
-2. **[Project Name 2]:** Brief description of the project, technologies used, and key outcomes.
-3. **[Project Name 3]:** Brief description of the project, technologies used, and key outcomes.
+2. [**[Kreativstorm]:** Training hands for programig in python.](https://github.com/david-macias-luevano95/Kreativstorm)
+3. [**[Maching Learning]:** This repository contains a collection of small projects focused on various machine learning techniques and algorithms.](https://github.com/david-macias-luevano95/Maching_Learning)
 
 Feel free to explore my repositories to see more of my work!
 
@@ -34,5 +34,6 @@ I am passionate about leveraging my skills in data analysis and machine learning
 
 - **Email:** [david.macias9510@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/david-macias-luevano95]
+- **Portfolio:**[https://reliable-flexibility-production.up.railway.app/]
 
 Thank you for visiting my GitHub profile! I look forward to connecting and collaborating with you.
