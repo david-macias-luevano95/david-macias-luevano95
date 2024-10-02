@@ -22,7 +22,7 @@ Here are some highlights from my portfolio:
 
 1. [**[Bellabeat-Case-Study]:** Proyect using R and tableu for make visualitation.](https://github.com/david-macias-luevano95/Bellabeat-Case_Study)
 2. [**[Kreativstorm]:** Training hands for programig in python.](https://github.com/david-macias-luevano95/Kreativstorm)
-3. [**[Maching Learning]:** This repository contains a collection of small projects focused on various machine learning techniques and algorithms.](https://github.com/david-macias-luevano95/Maching_Learning)
+3. [**[Maching Learning]:** This repository contains a collection of small projects focused on various machine learning techniques and algorithms.](https://github.com/david-macias-luevano95/Maching-Learning)
 
 Feel free to explore my repositories to see more of my work!
 
