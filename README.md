@@ -35,6 +35,6 @@ I am passionate about leveraging my skills in data analysis and machine learning
 
 - **Email:** [david.macias9510@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/david-macias-luevano95]
-- **Portfolio:**[https://reliable-flexibility-production.up.railway.app/]
+
 
 Thank you for visiting my GitHub profile! I look forward to connecting and collaborating with you.
