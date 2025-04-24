@@ -1,8 +1,6 @@
 
 # I'm David Macias!
-
- I am data analisis whith expericene like in electronic enginer an Electronics Engineer transitioning into the tech world, and I am currently seeking my first job in the industry. 
-
+Data Engineer with a background in electronics and strong experience in Python, SQL, and Data Analysis. Proficient in building data pipelines, developing dashboards, and collaborating with cross-functional teams to deliver actionable insights.
 ## 🔧 Skills and Interests
 
 - **Electronics Engineering:** Strong foundation in electronics and programing embedded systems, with hands-on experience in circuit design and troubleshooting.
