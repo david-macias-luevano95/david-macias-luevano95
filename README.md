@@ -20,12 +20,12 @@ Data Engineer with a background in electronics and strong experience in Python, 
 ## 🖥️ Maching Learning and Statics Projects
 
 1. [**Python:** Maching Learnig, Lineal Regression, Polinomial Regression, Forest regression.](https://github.com/david-macias-luevano95/Maching-Learning)
-2. [**Python + Jupiter:** Created a Python pipeline for financial analysis using SMA, moving averages, and linear regression.](https://github.com/david-macias-luevano95/Mailerapp)
+2. [**Python + Jupiter:** Created a Python pipeline for financial analysis using SMA, moving averages, and linear regression.](https://github.com/david-macias-luevano95/Trading-)
 
 ## 🌟 Python Proyects
 3. [**Python:** Training hands for programig in python.](https://github.com/david-macias-luevano95/Kreativstorm)
 4. [**Python + Flask:** This project is a web application developed with Flask that allows sending emails using the smtplib API.](https://github.com/david-macias-luevano95/Mailerapp)
-5. [**Python + Flask:** Portfolio.](https://github.com/david-macias-luevano95/Mailerapp)
+5. [**Python + Flask:** Portfolio.](https://github.com/david-macias-luevano95/Portfolio)
 
 
 
