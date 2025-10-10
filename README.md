@@ -18,6 +18,8 @@ Data Engineer with a background in electronics and strong experience in Python, 
 1. [**R + Tableu:** How to increase market share for a fitnes company.](https://github.com/david-macias-luevano95/Bellabeat-Case_Study)
 2. [**Excel + Tableu:** Boosting Engagement and Funding for the Digital Literacy Initiative.](https://github.com/david-macias-luevano95/HR_Proyect)
 3. [**Excel + Power BI:** How to increase market share for a fitnes company.](https://github.com/david-macias-luevano95/Dashboard_PowerBI)
+4. [**SQL** Clesaning, Transform, format data.](https://github.com/david-macias-luevano95/SQLProjects)
+
 
 ## 🖥️ Maching Learning and Statics Projects
 
